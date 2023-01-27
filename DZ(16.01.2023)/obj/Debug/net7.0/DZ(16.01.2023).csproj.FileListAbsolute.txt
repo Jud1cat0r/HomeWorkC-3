@@ -1,0 +1,15 @@
+C:\Users\gamej\Desktop\C#\DZ\DZ(16.01.2023)\DZ(16.01.2023)\bin\Debug\net7.0\DZ(16.01.2023).exe
+C:\Users\gamej\Desktop\C#\DZ\DZ(16.01.2023)\DZ(16.01.2023)\bin\Debug\net7.0\DZ(16.01.2023).deps.json
+C:\Users\gamej\Desktop\C#\DZ\DZ(16.01.2023)\DZ(16.01.2023)\bin\Debug\net7.0\DZ(16.01.2023).runtimeconfig.json
+C:\Users\gamej\Desktop\C#\DZ\DZ(16.01.2023)\DZ(16.01.2023)\bin\Debug\net7.0\DZ(16.01.2023).dll
+C:\Users\gamej\Desktop\C#\DZ\DZ(16.01.2023)\DZ(16.01.2023)\bin\Debug\net7.0\DZ(16.01.2023).pdb
+C:\Users\gamej\Desktop\C#\DZ\DZ(16.01.2023)\DZ(16.01.2023)\obj\Debug\net7.0\DZ(16.01.2023).csproj.AssemblyReference.cache
+C:\Users\gamej\Desktop\C#\DZ\DZ(16.01.2023)\DZ(16.01.2023)\obj\Debug\net7.0\DZ(16.01.2023).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamej\Desktop\C#\DZ\DZ(16.01.2023)\DZ(16.01.2023)\obj\Debug\net7.0\DZ(16.01.2023).AssemblyInfoInputs.cache
+C:\Users\gamej\Desktop\C#\DZ\DZ(16.01.2023)\DZ(16.01.2023)\obj\Debug\net7.0\DZ(16.01.2023).AssemblyInfo.cs
+C:\Users\gamej\Desktop\C#\DZ\DZ(16.01.2023)\DZ(16.01.2023)\obj\Debug\net7.0\DZ(16.01.2023).csproj.CoreCompileInputs.cache
+C:\Users\gamej\Desktop\C#\DZ\DZ(16.01.2023)\DZ(16.01.2023)\obj\Debug\net7.0\DZ(16.01.2023).dll
+C:\Users\gamej\Desktop\C#\DZ\DZ(16.01.2023)\DZ(16.01.2023)\obj\Debug\net7.0\refint\DZ(16.01.2023).dll
+C:\Users\gamej\Desktop\C#\DZ\DZ(16.01.2023)\DZ(16.01.2023)\obj\Debug\net7.0\DZ(16.01.2023).pdb
+C:\Users\gamej\Desktop\C#\DZ\DZ(16.01.2023)\DZ(16.01.2023)\obj\Debug\net7.0\DZ(16.01.2023).genruntimeconfig.cache
+C:\Users\gamej\Desktop\C#\DZ\DZ(16.01.2023)\DZ(16.01.2023)\obj\Debug\net7.0\ref\DZ(16.01.2023).dll
